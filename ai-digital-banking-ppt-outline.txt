@@ -1,0 +1,66 @@
+AI AND DIGITAL BANKING — PPT OUTLINE
+
+Slide 1 — Title
+AI and Digital Banking
+Subtitle: A simple explanation
+
+Slide 2 — What is banking?
+- Keeps money safe
+- Helps people pay, save, send, and borrow money
+- Kid version: a super-secure money clubhouse
+
+Slide 3 — What is digital banking?
+- Banking through apps, websites, and ATMs
+- Fast and convenient
+- Kid version: a bank in your pocket
+
+Slide 4 — What is AI?
+- Artificial intelligence
+- Looks at data and finds patterns
+- Helps computers make smart guesses
+- Kid version: a super-fast helper
+
+Slide 5 — Where AI helps in banking
+- Fraud detection
+- Customer support
+- Personalized recommendations
+- Loan review
+- Alerts and automation
+
+Slide 6 — Fraud detection example
+- AI notices unusual spending
+- Bank sends alert or blocks payment
+- Why it matters: safety
+
+Slide 7 — Customer service example
+- Chatbots answer common questions
+- Humans handle complex issues
+- Why it matters: speed and convenience
+
+Slide 8 — Personalization example
+- Budgeting tips
+- Better offers
+- Spending alerts
+- Why it matters: more relevant service
+
+Slide 9 — Benefits
+- Faster
+- Smarter
+- Available 24/7
+- Better customer experience
+- Lower fraud risk
+
+Slide 10 — Risks
+- Privacy
+- Security
+- Bias
+- Mistakes
+- Too much automation
+
+Slide 11 — The right balance
+- AI for speed
+- Humans for judgment
+- Rules for fairness and safety
+
+Slide 12 — Closing
+AI makes banking faster and easier, but trust, fairness, and human oversight still matter most.
